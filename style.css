@@ -58,7 +58,7 @@ body {
 
 .nav-link:hover,
 .nav-link.active {
-  color: #64b5f6;
+  color: #22c55e;
 }
 
 /* Sections */
@@ -75,7 +75,7 @@ body {
 
 /* Hero */
 .hero {
-  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  background: linear-gradient(135deg, #374151 0%, #1f2937 100%);
   color: white;
   text-align: center;
   padding: 6rem 0;
@@ -160,7 +160,7 @@ body {
 }
 
 .contact-link {
-  background: #2a5298;
+  background: #22c55e;
   color: white;
   padding: 0.75rem 1.5rem;
   text-decoration: none;
@@ -170,7 +170,7 @@ body {
 }
 
 .contact-link:hover {
-  background: #1e3c72;
+  background: #16a34a;
   transform: translateY(-2px);
 }
 
